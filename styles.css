@@ -725,6 +725,10 @@ a {
     padding: 150px 30px 30px;
   }
 
+.header__content {
+min-height: 120px;
+}
+
   .peace__body {
     align-items: flex-start;
   }
