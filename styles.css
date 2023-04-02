@@ -727,6 +727,7 @@ a {
 
   .header__content {
     min-height: 120px;
+    padding: 0 5px;
   }
 
   .peace__body {
